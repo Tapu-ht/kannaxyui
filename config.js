@@ -2,7 +2,7 @@
 // Credits, jangan dihapus atau diubah!
 
 // - - THANKS TO - -
-// • Allah SWT
+// • Tuhan yang maha esa
 // • Nurutomo
 // • Bochilgaming
 // • Rominaru
@@ -10,7 +10,7 @@
 // • The.sad.Boy01
 // • Rasel comel
 // • Xtreshe (Beban)
-// • Dll
+// • Tata Hosting (yang modalin)
 
 //[!] Jangan Dihapus, mending ditambahin 
 
@@ -43,26 +43,26 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 /*============== SOCIAL ==============*/
 
 // kalo ga punya ketik "-" atau biarin aja biar ada creditsnya :v
-global.sig = 'https://instagram.com/leonvx._'
-global.sgh = 'https://bl4ck-lion.github.io/index.php'
-global.sgc = 'https://chat.whatsapp.com/HHjPtKIjkzb1ud0QtrkbQH'
-global.sdc = 'https://discord.gg/WEJQjugTY7'
-global.snh = 'https://youtube.com/c/LeonGanz/'
+global.sig = 'https://instagram.com/tata_real1 ._'
+global.sgh = '"-"'
+global.sgc = '"-"
+global.sdc = 'https://discord.gg/TaaHost'
+global.snh = 'https://youtube.com/c/Tatabotz/'
 
 /*============== PAYMENT ==============*/
-global.pdana = '085608625102'
-global.povo = '085608625102'
-global.pgopay = '085608625102'
-global.ppulsa = '085608625102'
-global.ppulsa2 = '085608625102'
-global.psaweria = 'https://saweria.com/LeonGanz'
+global.pdana = 'Gada'
+global.povo = '087784997743'
+global.pgopay = '087784997743'
+global.ppulsa = '08953193159'
+global.ppulsa2 = '077784997743'
+global.psaweria = 'https://saweria.com/TataHost'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6282127104362'
-global.nomorown = '6282127104362'
-global.nomorpart = '6282127104362'
-global.namebot = 'Yusuf Oct'
-global.nameown = 'Yusuf Oct'
+global.nomorbot = '6287784997743'
+global.nomorown = '6289531931590'
+global.nomorpart = '087784997743'
+global.namebot = 'Tata Oct'
+global.nameown = 'Tata Oct'
 
 
 /*============== STAFF ==============*/
@@ -74,7 +74,7 @@ global.owner = [
   ['6287877173955', 'Ferdiz-Afk', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
-global.mods = [] // Want some help?
+global.mods = ['6289531931590'] // Want some help?
 global.prems = [] // Premium user bukan disini nambahinnya, ketik .addprem @user 10
 
 
